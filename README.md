@@ -1,1 +1,1 @@
-# XX-C-programming-Aman-janghela
+# 06-C-programming-Aman-janghela
